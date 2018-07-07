@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1.25rem;
 }
 
-.navitem > a {
+.navitem  a {
     color: #777777;
     text-decoration: none;
     background-color: none;
@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: .2s background-color, color;
 }
 
-.navitem > a:hover {
+.navitem  a:hover {
     background-color: teal;
     color: white;
 }
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
     border-color: #dddddd;
 }
 
-.container > img {
+.container  img {
     float: left;
     margin-right: 15px;
 }
@@ -144,7 +144,7 @@ input[type=submit]:hover {
     grid-row-gap: 20px;
 }
 
-.grid > a {
+.grid  a {
     height: 200px;
     width: 200px;
     background-image: url("http://www.fillmurray.com/200/200");
@@ -152,11 +152,11 @@ input[type=submit]:hover {
     text-decoration: none;
 }
 
-.grid > a:hover {
+.grid  a:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.grid > a > p {
+.grid  a  p {
     color: white;
     font-size: 1.2rem;
     background-color: teal;
@@ -180,7 +180,7 @@ footer {
     width: 100%;
 }
 
-footer > p {
+footer  p {
     color: white;
     padding: 15px 0 15px 0;
     text-align: center;
@@ -251,6 +251,10 @@ footer > p {
 
     .container {
         margin-top: 150px;
-        width: 400px;
+        width: 425px;
+    }
+
+    .grid a {
+        margin: 20px;
     }
 }
