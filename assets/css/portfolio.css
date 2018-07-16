@@ -1,3 +1,7 @@
 .grid  .discordApp {
     background-image: url("../images/discord.png");
 }
+
+.grid .hangmanApp {
+    background-image: url("../images/hangman.jpg");
+}
