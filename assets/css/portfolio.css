@@ -1,11 +1,11 @@
-.discordApp {
+.grid .discordApp {
     background-image: url("../images/discord.png");
 }
 
-.hangmanApp {
+.grid .hangmanApp {
     background-image: url("../images/hangman.jpg");
 }
 
-.starWarsApp {
+.grid .starWarsApp {
     background-image: url("../images/rey.jpeg");
 }
