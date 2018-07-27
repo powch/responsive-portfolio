@@ -9,3 +9,7 @@
 .grid .starWarsApp {
     background-image: url("../images/rey.jpeg");
 }
+
+.grid .triviaApp {
+    background-image: url("../images/trivia.png");
+}
