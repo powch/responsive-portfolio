@@ -13,3 +13,7 @@
 .grid .triviaApp {
     background-image: url("../images/trivia.png");
 }
+
+.grid .gifTastic {
+    background-image: url('https://media1.giphy.com/media/KLbq09EoE1uDu/200_s.gif');
+}
