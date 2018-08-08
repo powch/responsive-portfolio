@@ -17,3 +17,7 @@
 .grid .gifTastic {
     background-image: url('https://media1.giphy.com/media/KLbq09EoE1uDu/200_s.gif');
 }
+
+.grid .trainApp {
+    background-image: url('../images/swordfish.jpeg');
+}
