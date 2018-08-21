@@ -21,3 +21,8 @@
 .grid .trainApp {
     background-image: url('../images/swordfish.jpeg');
 }
+
+.grid .chatRoom {
+    background-image: url('../images/flak-logo-birdonly.jpg');
+    background-size: 200px;
+}
